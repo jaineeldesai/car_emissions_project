@@ -31,7 +31,7 @@ https://www.eea.europa.eu/en
 
 ## Exploratory Data Analysis
 
-The exploratory data anaylsis is carried out in tableau and can be found here:
+The exploratory data anaylsis is carried out in Tableau and can be found here:
 https://public.tableau.com/views/car_emissions_germany_2022/intro?:language=en-US&:display_count=n&:origin=viz_share_link
 
 ## Coding
