@@ -6,7 +6,7 @@ Under conditions defined by EU law, the WLTP laboratory test is used to measure 
 
 Passenger cars and vans ('light commercial vehicles') are respectively responsible for around 12% and 2.5% of total EU emissions of carbon dioxide (CO2), which is the main greenhouse gas.
 
-** NEDC- New European Driving Cycle (Excluded since 2021)
+** NEDC- New European Driving Cycle (Excluded since 2021) \
 ** WLTP- Worldwide Harmonised Light Vehicle Test Procedure
 
 ## Target levels
