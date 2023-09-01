@@ -42,7 +42,7 @@ The data is cleaned and stored to a MySQL database as well as a csv 'clean_car_d
 
 ### Regression Model
 
-In the notebook 'emissions_model.ipynb', the 'clean_car_data.csv' is imported and the following steps are carried on:
+In the notebook 'emissions_model.ipynb', the 'clean_car_data.csv' is imported and the following steps are carried out:
 
 * Data Exploration and Cleaning (based on the target)
 * X-y Split
