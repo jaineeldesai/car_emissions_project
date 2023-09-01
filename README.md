@@ -12,7 +12,7 @@ Passenger cars and vans ('light commercial vehicles') are respectively responsib
 ## Target levels
 The EU fleet-wide CO2 emission targets set in the Regulation are as follows:
 
-2020 to 2024
+2020 to 2024 \
 Cars: 95 g CO2/km \
 Vans: 147 g CO2/km \
 These target levels refer to the NEDC emission test procedure.
